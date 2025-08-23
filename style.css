@@ -1,0 +1,52 @@
+body {
+      background-color: black;
+        color: white;
+          font-family: Arial, sans-serif;
+            text-align: center;
+              padding: 20px;
+              }
+
+              .caixa-principal {
+                background-color: #202020;
+                  border: 3px solid red;
+                    border-radius: 15px;
+                      padding: 20px;
+                        max-width: 600px;
+                          margin: auto;
+                            box-shadow: 0px 0px 15px red;
+                            }
+
+                            h1 {
+                              color: #e62429; /* vermelho Marvel */
+                                font-size: 2em;
+                                }
+
+                                .autor {
+                                  color: yellow;
+                                    font-size: 14px;
+                                    }
+
+                                    button {
+                                      display: block;
+                                        margin: 10px auto;
+                                          padding: 10px;
+                                            background-color: #1464f6;
+                                              color: white;
+                                                border: none;
+                                                  border-radius: 10px;
+                                                    cursor: pointer;
+                                                      width: 80%;
+                                                        font-size: 1em;
+                                                        }
+
+                                                        button:hover {
+                                                          background-color: #0d3aa5;
+                                                          }
+
+                                                          .caixa-resultado {
+                                                            margin-top: 20px;
+                                                              font-size: 18px;
+                                                                color: gold;
+                                                                }
+                                                                
+}
